@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  button, .box, #secret-action {
+    padding: 20px;
+    margin: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .box {
+    width: 200px;
+    background-color: #f3f3f3;
+  }
+  
+  #secret-action {
+    margin-top: 20px;
+    background-color: lightgreen;
+  }
+  
